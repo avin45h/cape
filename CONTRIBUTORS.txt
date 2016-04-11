@@ -1,0 +1,5 @@
+This file contains a list of people who have made large contributions
+to this repository.
+Avinash Verma <avin45h>
+Rohit Choudhary <echorohit>
+Parveen Arora <parveen1112>
